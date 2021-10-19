@@ -1,0 +1,8 @@
+Choose the architecture of the crm application and justify the answer.
+
+Answer: The correct architecture for a crm application would be a monolith. Because:
+1) Mobility. Can be easily integrated into any system.
+2) Support cost. The cost of maintaining a crm application in a monolithic architecture will be cheaper than in a microservice architecture.
+3) Application speed. Compared to a monolithic architecture, an application will run faster than a microservice one.
+4) Ease of testing. The app is much easier to test.
+5) Assembly and deployment are easier. Building and deploying an application is much easier with a monolithic architecture than with a microservice architecture.
